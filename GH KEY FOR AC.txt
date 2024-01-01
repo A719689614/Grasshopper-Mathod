@@ -1,0 +1,60 @@
+﻿Z '_Zoom
+ZE '_Zoom _Extents
+ZEA '_Zoom _All _Extents
+ZS '_Zoom _Selected
+ZSA '_Zoom _All _Selected
+S '_Snap
+O Offset
+P '_Planar
+M ! _Move
+U _Undo
+POn ! _PointsOn
+POff ! _PointsOff
+C '_SelCrossing
+W '_SelWindow
+COn '_CurvatureGraph
+COff '_CurvatureGraphOff
+PlugInManager ! _OptionsPage _PlugIns
+AdvancedDisplay ! _OptionsPage _DisplayModes
+DisplayAttrsMgr ! _OptionsPage _DisplayModes
+Break ! _DeleteSubCrv
+SelPolysurface '_SelPolysrf
+op Options
+pl _Polyline
+nb curve
+spl _InterpCrv
+rez '_CPlane
+ci _Circle
+mi Mirror
+rec _Rectangle
+po _Point
+ro Rotate
+el Ellipse
+ss _Top
+s2 _Perspective
+s1 _Front
+of Offset
+re _Rebuild
+br _Bridge
+co Copy
+a _Arc
+e _Delete
+tr _Trim
+ex Extend
+x _Explode
+ta _TurnTable
+Sl _Silhouette
+sww Sweep2
+sw Sweep1
+s3 _Right
+AB _ArcBlend
+MA _Match
+pa _Patch
+y _Show
+PJ _Project
+xb XNurbs
+fa _PlanarSrf
+2d _Make2D
+do _Dot
+ec _ExtractIsoCurve
+exx _ExtractIsoCurve
